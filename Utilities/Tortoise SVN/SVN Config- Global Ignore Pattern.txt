@@ -1,0 +1,1 @@
+*.[Bb][Aa][Kk] [Tt][Hh][Uu][Mm][Bb][Ss].[Dd][Bb] *.[Tt][Mm][Pp] *.[Tt][Ee][Mm][Pp] *.[Dd][Pp][Rr][Oo][Jj][Ll][Oo][Cc][Aa][Ll] *.[Ii][Dd][Ee][Nn][Tt] *.[Pp][Dd][Bb] Release Debug Bin Obj Win32 Win64 __History *~ *.dsk *.map

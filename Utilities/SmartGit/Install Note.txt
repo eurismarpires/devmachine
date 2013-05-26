@@ -1,0 +1,7 @@
+Unzip to folder
+set SMARTGITHG_JAVA_HOME=<installdir>jre
+use smartgithg.exe
+
+
+I also created a shortcut and added to start menu
+"F:\Program Files\SmartGit\bin\smartgithg.exe" 

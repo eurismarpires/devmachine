@@ -1,0 +1,7 @@
+For Windows7 and before
+
+Config option:  
+Edit->Options->Shell Integration->Add to context menu is checked by default.
+Also check "Enable advanced menu"  
+
+This changes the Winmerge option to Compare.  This helps when right clicking and entering F) W) for File->New  With the default WinMerge explorer menu, the W) selects WinMerge and throws off this common task.
