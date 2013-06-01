@@ -1,0 +1,1 @@
+start pgsql\bin\pgAdmin3.exe
