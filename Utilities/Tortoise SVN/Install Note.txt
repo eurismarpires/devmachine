@@ -3,7 +3,5 @@ Exclude Paths: C:\*
 Include Paths: F:\*
 
 General Settings:
-see SVN Config- Auto-Props.txt
-see SVN Config- Global Ignore Pattern.txt
-
-Clear the default ignore pattern and rely on project-based ignore settings
+- Clear the default ignore pattern and rely on project-based ignore settings, see:
+https://github.com/darianmiller/devmachine/wiki/Configure-TortoiseSVN-client-for-a-standard-ignore-pattern-for-Delphi
