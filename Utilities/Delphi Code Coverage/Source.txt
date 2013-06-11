@@ -1,0 +1,10 @@
+Google Code project home
+https://code.google.com/p/delphi-code-coverage/
+MPL 1.1
+
+Latest release candidate 1.0 RC8
+https://delphi-code-coverage.googlecode.com/files/CodeCoverage_1.0_RC8.zip
+
+
+Source (XE2 or Delphi 2010)
+http://delphi-code-coverage.googlecode.com/svn/trunk/
