@@ -1,0 +1,11 @@
+<service>
+  <id>fisheye</id>
+  <name>FishEye</name>
+  <description>FishEye Windows Service</description>
+  <executable>F:\CI\FishEyeServer\bin\fisheyectl.bat</executable>
+  <logpath>F:\CI\FishEyeServer\winsw Launcher\Log</logpath>
+  <logmode>roll</logmode>
+  <depend>Spooler</depend>
+  <startargument>run</startargument>
+  <stopargument>stop</stopargument>
+</service>
